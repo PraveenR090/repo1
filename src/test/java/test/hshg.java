@@ -5,7 +5,13 @@ import org.testng.annotations.Test;
 public class hshg {
 @Test
 
-public void cc(String dd)
+
+public void cc(String h ){
+	 
+}
+
+public void cc( String rqj,int dd)
+
 {
 	System.out.println("nn");
 }
